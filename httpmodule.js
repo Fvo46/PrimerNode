@@ -23,5 +23,10 @@ npmjs.com es el repositorio mas grande de internet
 se usaran, con el comnado npm init en la consola
 este gaurda todos los package bajados, y los linkea 
 juntos a traves de un archivo json, para que sea mas facil
-requerirlos
+requerirlos.
+Una vez creado, ejecuto "npm i" , y asi instalo los packages
+*/
+/* si quiero ejecutar algo personalizado agrego
+run en la consola, porque NOde no conoce el comando
+por ejemplo desarrollo en package.json
 */
